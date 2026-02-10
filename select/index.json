@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Unstoppable",
+  "base_artist": "KID PHENOMENON from EXILE TRIBE",
+  "createdAt": "2026-02-10T14:32:27.770892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Unstoppable (remix)",
+      "artist": "Drake feat. Lil Wayne & Santigold",
+      "has_synced": true,
+      "path": "select/01_Unstoppable_(remix)_Drake_feat._Lil_Wayne_&_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unstoppable (feat. Santigold & Lil Wayne)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Unstoppable_(feat._Santigold_&_Lil_Wayne)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/03_Unstoppable_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/04_Unstoppable_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Chief Keef",
+      "has_synced": false,
+      "path": "select/05_Unstoppable_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Late Night (Unstoppable mix)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/06_Late_Night_(Unstoppable_mix)_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Danger Twins",
+      "has_synced": false,
+      "path": "select/07_Unstoppable_Danger_Twins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/08_Unstoppable_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Aephanemer",
+      "has_synced": false,
+      "path": "select/09_Unstoppable_Aephanemer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Santogold",
+      "has_synced": true,
+      "path": "select/10_Unstoppable_Santogold.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/11_Unstoppable_Sia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/12_Unstoppable_Sia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Lianne La Havas",
+      "has_synced": true,
+      "path": "select/13_Unstoppable_Lianne_La_Havas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Public Enemy feat. KRS-One",
+      "has_synced": true,
+      "path": "select/14_Unstoppable_Public_Enemy_feat._KRS-One.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Public Enemy",
+      "has_synced": true,
+      "path": "select/15_Unstoppable_Public_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Unstoppable - Jungle's Edit",
+      "artist": "Lianne La Havas",
+      "has_synced": false,
+      "path": "select/16_Unstoppable_-_Jungle's_Edit_Lianne_La_Havas.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "The Calling",
+      "has_synced": false,
+      "path": "select/17_Unstoppable_The_Calling.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Unstoppable",
+      "artist": "Charm City Devils",
+      "has_synced": false,
+      "path": "select/18_Unstoppable_Charm_City_Devils.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unstoppable",
+      "artist": "KID PHENOMENON from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/pl_01_Unstoppable_KID_PHENOMENON_from_EXILE_TRIBE.txt"
+    }
+  ]
+}
