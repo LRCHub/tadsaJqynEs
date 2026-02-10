@@ -1,0 +1,117 @@
+# KID PHENOMENON from EXILE TRIBE – Unstoppable
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Run run
+We can run this
+Run run
+Run this city
+Run run
+We can run this
+Run run
+Run this
+自動Body moving
+You don't need the "PARTY"
+Stronger than a magnet, feel the beat inside me
+Siren in the street
+Ridin' in the fleet
+Never catching us
+蹴散らす I'mma 別格
+世界がfever
+Ain't no escaping it
+呼ばれるリーダー
+俺ら適任
+心操るメロディー
+You can't stop me.
+We taking over the night
+欲しいもの全部
+手にする結局
+ひたすらに we here to play
+Ain't gotta take our time
+We making it shatter
+Playing with your mind
+We cut you like a dagger
+止まってる they're just museum
+俺ら以外はNo
+(Hey, hey, this is how we do
+We could run, we could run this city)
+This is how we roll, roll
+Running this show
+Everybody knows we're unstoppable
+Oh oh
+Ready, set to go (ready set, ready set go now)
+適当な愛なら捨てて
+Chase us, there's no other way
+Cos everybody in this world knows
+We're unstoppable
+Run run
+We can run this
+Run run
+Unstoppable
+Run run
+We can run this
+Run run
+Unstoppable
+We can run this
+Run this city.
+We can run this
+Unstoppable
+Master the flow 喜ぶ耳
+We killing this show.
+花火よりも眩しい can't be denied
+夜も眠れない
+Come on, we unstoppable
+Make the rules.
+愛しいマダラ
+Don't be serious
+自由こそpower
+とどまんない このVIBE プラズマ
+渇きが呼ぶ名声
+Ain't gotta take our time
+We making it shatter
+Playing with your mind
+We cut you like a dagger
+止まってる they're just museum
+俺ら以外はNo
+(Hey, hey, this is how we do
+We could run, we could)
+This is how we roll, roll
+Running this show
+Everybody knows we're unstoppable
+Oh oh
+Ready, setto go (ready set, ready set go now)
+適当な愛なら捨てて
+Chase us, there's no other way
+Cos everybody in this world knows
+We're unstoppable
+Amber light, warning sign, still we go
+Can't you tell, you and me unstoppable
+Amber light, warning sign, still we go
+Got your back to the wall
+流れるStreetで 即 education
+Beat textbook.Relaying the mission
+Rising too high このmotivation
+This town gonna fall
+This is how we roll, roll
+Running this show
+Everybody knows we're unstoppable
+Oh oh
+Ready, set to go (ready set, ready set go now)
+適当な愛なら捨てて
+Chase us, there's no other way
+Cos everybody in this world knows
+We're unstoppable
+Run run
+We can run this
+Run run
+Unstoppable
+Run run
+We can run this
+Run run
+Unstoppable
+We can run this
+Run this city.
+We can run this
+Unstoppable
+```
